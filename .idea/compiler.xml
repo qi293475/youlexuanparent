@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="youlexuansellergoodsinterface" />
+        <module name="youlexuansearchservice" />
+        <module name="youlexuanpageinterface" />
+        <module name="youlexuancontentservice" />
+        <module name="youlexuancartservice" />
+        <module name="youlexuanseckillweb" />
+        <module name="youlexuansolrutil" />
+        <module name="youlexuanuserweb" />
+        <module name="offcn_sms" />
+        <module name="youlexuandao" />
+        <module name="youlexuanpayservice" />
+        <module name="youlexuansearchinterface" />
+        <module name="youlexuanpageweb" />
+        <module name="youlexuanseckillinterface" />
+        <module name="youlexuanportalweb" />
+        <module name="youlexuanuserinterface" />
+        <module name="youlexuansellergoodsservice" />
+        <module name="youlexuanmanagerweb" />
+        <module name="youlexuancartinterface" />
+        <module name="youlexuanorderservice" />
+        <module name="youlexuanpojo" />
+        <module name="youlexuanshopweb" />
+        <module name="youlexuansearchweb" />
+        <module name="youlexuancommon" />
+        <module name="youlexuanorderinterface" />
+        <module name="youlexuanpayinterface" />
+        <module name="youlexuancontentinterface" />
+        <module name="youlexuancartweb" />
+        <module name="youlexuanuserservice" />
+        <module name="youlexuanpageservice" />
+        <module name="youlexuanseckillservice" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
